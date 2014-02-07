@@ -100,7 +100,7 @@ adapters:
             - /sfUnobstrusiveWidgetPlugin/css/common/uo_widget_form_select_many_drop_down_check_list.css
         multiselect:
           js_files:
-            - /sfUnobstrusiveWidgetPlugin/js/jquery/uo_widget_form_select_many_multiselect.jquery
+            - /sfUnobstrusiveWidgetPlugin/js/jquery/uo_widget_form_select_many_multiselect.jquery.js
             - /sfUnobstrusiveWidgetPlugin/vendor/jquery/ui-multiselect/ui.multiselect.js
           css_files:
             - /sfUnobstrusiveWidgetPlugin/css/common/uo_widget_form_select_many_multiselect.css
